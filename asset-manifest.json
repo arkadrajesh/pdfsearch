@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/pdfsearch/static/css/main.dbcce291.css",
+    "main.js": "/pdfsearch/static/js/main.f153a337.js",
+    "static/js/787.5055b2b2.chunk.js": "/pdfsearch/static/js/787.5055b2b2.chunk.js",
+    "static/media/254_page_26_Contract-Breach.pdf": "/pdfsearch/static/media/254_page_26_Contract-Breach.2bac5aaa9a1b60e869e1.pdf",
+    "static/media/logo.svg": "/pdfsearch/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/pdfsearch/index.html",
+    "main.dbcce291.css.map": "/pdfsearch/static/css/main.dbcce291.css.map",
+    "main.f153a337.js.map": "/pdfsearch/static/js/main.f153a337.js.map",
+    "787.5055b2b2.chunk.js.map": "/pdfsearch/static/js/787.5055b2b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbcce291.css",
+    "static/js/main.f153a337.js"
+  ]
+}
