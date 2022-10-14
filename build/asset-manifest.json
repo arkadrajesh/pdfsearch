@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dbcce291.css",
+    "main.js": "/static/js/main.5cfcec18.js",
+    "static/js/787.5055b2b2.chunk.js": "/static/js/787.5055b2b2.chunk.js",
+    "static/media/254_page_26_Contract-Breach.pdf": "/static/media/254_page_26_Contract-Breach.2bac5aaa9a1b60e869e1.pdf",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.dbcce291.css.map": "/static/css/main.dbcce291.css.map",
+    "main.5cfcec18.js.map": "/static/js/main.5cfcec18.js.map",
+    "787.5055b2b2.chunk.js.map": "/static/js/787.5055b2b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbcce291.css",
+    "static/js/main.5cfcec18.js"
+  ]
+}
