@@ -1,0 +1,21 @@
+.container{
+    display: grid;
+    grid-template-columns: 20% 80%;
+}
+
+.items {
+    margin: 9px 0px 9px 0px;
+    border-bottom: 1px solid gray;
+    display: flex;
+    justify-content: space-between;
+}
+/* span{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+} */
+
+button{
+    border: none;
+}
